@@ -1,1 +1,1 @@
-# GoIt
+# GoIt- Python Core Poland
